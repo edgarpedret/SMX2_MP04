@@ -21,3 +21,7 @@ Fes el mateix que a l'exercici 1.
 
 ![image](https://github.com/user-attachments/assets/46068f01-4c01-4db8-a765-f75c850eaa72)
 3. 
+![image](https://github.com/user-attachments/assets/f3c2b981-87c4-4452-ae8f-83048adc2311)
+![image](https://github.com/user-attachments/assets/57c451f6-9189-4725-8920-045a30116d88)
+4. 
+![image](https://github.com/user-attachments/assets/3b716269-92e2-41b7-9d20-ba416f7e616c)
