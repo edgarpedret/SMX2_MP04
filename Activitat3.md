@@ -8,6 +8,9 @@
 
 ![image](https://github.com/user-attachments/assets/f41f46c2-2a50-4fb5-881c-2e215c48c1e9)
 
+![image](https://github.com/user-attachments/assets/7db7ab14-6a32-4d50-85c8-41f2ed28bfc3)
+
+![image](https://github.com/user-attachments/assets/44a89010-a50b-424e-bdd7-bb0627fc22b9)
 
 2.- Crea un altre arxiu al repositori on mostris com crear un script per compartir de forma automàtica una unitat de xarxa als membrs d'un grup. Tens el tutorial al Github del mòdul.
 
