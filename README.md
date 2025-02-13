@@ -1,4 +1,6 @@
-# UF3 - Compartició de recursos i seguretat
+# SMX 2 MP04
+## Edgar Pedret Girones
+### UF3 - Compartició de recursos i seguretat
 
 [Activitat 1](Activitat1.md)
 
