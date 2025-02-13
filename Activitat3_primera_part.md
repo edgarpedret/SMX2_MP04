@@ -1,3 +1,6 @@
+# Activitat 3 - Compartir unitats en xarxa (Personal i en grup)
+## Primera Part
+
 1.- Crea un repositori de Github on mostris com crees una caperta personal per als usuaris d'un domini seguint el tutorial 
 
 ![image](https://github.com/user-attachments/assets/ffe078c8-b92f-44f3-9bc3-7a55bcbbd5d4)
