@@ -1,4 +1,5 @@
-# Enunciat
+# Tasca 5 - Establir una directiva de grup
+## Enunciat
 
 En aquesta activitat crearem una unitat organitzativa anomenada losers, a la qual afegirem dos usuaris mediocre1 i mediocre2.
 
