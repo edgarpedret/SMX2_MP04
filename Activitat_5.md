@@ -21,16 +21,47 @@ Activitat 2
 
 Una directiva de grup anomenada caduca_20 que fa que la contrasenya dels usuaris s'hagi de canviar cada 20 dies.
 
+![image](https://github.com/user-attachments/assets/03b99287-a7c3-48b7-898c-778d9793e22e)
+
+![image](https://github.com/user-attachments/assets/39fd1f1b-4956-48a2-84cf-fbb34e0e9296)
 
 
 Activitat 3
 
 Una directiva de grup que faci que si un usuari falla 3 vegades l'accés al seu compte bloquegi l'usuari durant 15 minuts.
 
+![image](https://github.com/user-attachments/assets/329c80c1-0452-45a2-b97e-68dce8ce6fd6)
+
+
+
 Activitat 4
 
 Una directiva de grup que impedeix la instal·lació de programes.
 
+![image](https://github.com/user-attachments/assets/98fd9cdc-4354-4a70-9c19-0de505868bb3)
+
+
 Activitat 5
 
 Una directiva de grup que apaga l'ordinador del client a les 20:00 cada dia. (Aquesta és la més complicada de totes penseu d'utilitzar shutdown.exe)
+
+![image](https://github.com/user-attachments/assets/53fe56af-6385-414d-8885-08f24daf43dc)
+
+![image](https://github.com/user-attachments/assets/b3d0bf03-3659-46fe-9888-0b357650952e)
+
+
+![image](https://github.com/user-attachments/assets/4bd5f223-af3f-476d-ac30-c8a8212a29b5)
+
+![image](https://github.com/user-attachments/assets/69cb146b-63c7-4d2d-80e0-53c759b045ef)
+
+![image](https://github.com/user-attachments/assets/08c3585c-0c17-4e9d-849b-ee7958385cab)
+
+
+
+
+
+
+
+
+
+
