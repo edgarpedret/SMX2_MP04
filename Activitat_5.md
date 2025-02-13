@@ -1,10 +1,10 @@
-## Enunciat
+# Enunciat
 
 En aquesta activitat crearem una unitat organitzativa anomenada losers, a la qual afegirem dos usuaris mediocre1 i mediocre2.
 
 ![image](https://github.com/user-attachments/assets/b331ca95-4ce8-449a-9fe5-2fbf6888b406)
 
-# Activitat 1
+### Activitat 1
 
 La directiva de grup consistirà en que els usuaris de losers no podran utilitzar el CMD de Windows.
 
@@ -17,7 +17,7 @@ Configuración de usuario > Plantillas administrativas > Sistema > Impedir el ac
 ![image](https://github.com/user-attachments/assets/2bde5e7f-0bdc-466d-af7e-cc3fadefcc5a)
 
 
-# Activitat 2
+### Activitat 2
 
 Una directiva de grup anomenada caduca_20 que fa que la contrasenya dels usuaris s'hagi de canviar cada 20 dies.
 
@@ -26,7 +26,7 @@ Una directiva de grup anomenada caduca_20 que fa que la contrasenya dels usuaris
 ![image](https://github.com/user-attachments/assets/39fd1f1b-4956-48a2-84cf-fbb34e0e9296)
 
 
-# Activitat 3
+### Activitat 3
 
 Una directiva de grup que faci que si un usuari falla 3 vegades l'accés al seu compte bloquegi l'usuari durant 15 minuts.
 
@@ -34,14 +34,14 @@ Una directiva de grup que faci que si un usuari falla 3 vegades l'accés al seu 
 
 
 
-# Activitat 4
+### Activitat 4
 
 Una directiva de grup que impedeix la instal·lació de programes.
 
 ![image](https://github.com/user-attachments/assets/98fd9cdc-4354-4a70-9c19-0de505868bb3)
 
 
-# Activitat 5
+### Activitat 5
 
 Una directiva de grup que apaga l'ordinador del client a les 20:00 cada dia. (Aquesta és la més complicada de totes penseu d'utilitzar shutdown.exe)
 
