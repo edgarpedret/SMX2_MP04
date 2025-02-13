@@ -1,3 +1,6 @@
+# Activitat 3 - Compartir unitats en xarxa (Personal i en grup)
+## Segona Part
+
 2.- Crea un altre arxiu al repositori on mostris com crear un script per compartir de forma automàtica una unitat de xarxa als membrs d'un grup. Tens el tutorial al Github del mòdul.
 
 ![image](https://github.com/user-attachments/assets/743992fc-069a-457e-9899-c2a930d5c33e)
