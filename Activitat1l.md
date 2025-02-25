@@ -23,14 +23,24 @@ permisos.
 
     
 11. Crea un subdirectori anomenat "sub-X" on X és el teu cognom.
+![image](https://github.com/user-attachments/assets/ede5a9bd-1784-4bca-81ae-95d41a1e39d9)
+
     
 13. Deixa el subdirectori anterior amb permisos només per al propietari (rwx).
-14. Concedeix permisos d'execució al grup "proves" sobre "sub-X".
-15. Crea un usuari anomenat "convidat".
+![image](https://github.com/user-attachments/assets/b9e7575e-b363-4fbc-b8c1-d17c40b7a08d)
+
+    
+15. Concedeix permisos d'execució al grup "proves" sobre "sub-X".
+![image](https://github.com/user-attachments/assets/997e956c-e9a1-4a55-b8eb-81e8985a9a5f)
+
+    
+17. Crea un usuari anomenat "convidat".
+
+    
 10.Canvia els permisos del directori "Exercici-X" perquè l'usuari "convidat"
 pugui accedir.
 11.Canvia els permisos de l'arxiu "arxiu1.txt" perquè tots els usuaris tinguin
 només permís de lectura.
 12.Comprova que l'usuari "convidat" no pot accedir al subdirectori "sub-X".
-16. Afegeix convidat al grup "proves" i comprova que sí té accés a "sub-X".
+19. Afegeix convidat al grup "proves" i comprova que sí té accés a "sub-X".
 (POTSER NECESSITES REINICIAR EL SISTEMA).
