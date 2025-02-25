@@ -1,6 +1,7 @@
 # SMX 2 MP04
 ## Edgar Pedret Girones
 ### UF3 - Compartició de recursos i seguretat
+#### Windows
 #### - Activitats -
 [Activitat 1](Activitat1.md)
 
@@ -13,6 +14,8 @@
 [Activitat 4](Activitat_4.md)
 
 [Activitat 5](Activitat_5.md)
+#### Ubuntu
+#### - Activitats -
 
 ### UF4 - Integració de sistemes operatius
 #### - Activitats -
