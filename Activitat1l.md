@@ -40,10 +40,24 @@ permisos.
     
 10.Canvia els permisos del directori "Exercici-X" perquè l'usuari "convidat"
 pugui accedir.
+![image](https://github.com/user-attachments/assets/56c0f6aa-f457-40c2-8ef5-02af28885c28)
+
 
 
 11.Canvia els permisos de l'arxiu "arxiu1.txt" perquè tots els usuaris tinguin
 només permís de lectura.
+![image](https://github.com/user-attachments/assets/018bd62a-96a5-493f-91d6-3631867dd8da)
+
+
+
 12.Comprova que l'usuari "convidat" no pot accedir al subdirectori "sub-X".
+![image](https://github.com/user-attachments/assets/a7f032bd-9e48-40cb-98eb-9536b676b568)
+
+
+
 19. Afegeix convidat al grup "proves" i comprova que sí té accés a "sub-X".
 (POTSER NECESSITES REINICIAR EL SISTEMA).
+![image](https://github.com/user-attachments/assets/f05e07e9-a89f-4747-a1e7-0e3e255e65ef)
+
+
+
