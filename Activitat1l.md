@@ -35,10 +35,13 @@ permisos.
 
     
 17. Crea un usuari anomenat "convidat".
+![image](https://github.com/user-attachments/assets/49e56686-28d1-4795-b660-5cd2d24ca9ff)
 
     
 10.Canvia els permisos del directori "Exercici-X" perquè l'usuari "convidat"
 pugui accedir.
+
+
 11.Canvia els permisos de l'arxiu "arxiu1.txt" perquè tots els usuaris tinguin
 només permís de lectura.
 12.Comprova que l'usuari "convidat" no pot accedir al subdirectori "sub-X".
