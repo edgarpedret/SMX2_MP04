@@ -62,10 +62,12 @@ només permís de lectura.
 # Activitat 2 – umask
 
 1. Crea un usuari anomenat "proves2" i mostra la seva màscara per defecte.
+   
    ![image](https://github.com/user-attachments/assets/25a3b7e0-4548-4938-ac68-815e7c566632)
 
 3. Modifica la màscara de proves2 perquè els fitxers els crei amb rw-r--r-- i   els
   directoris amb rwxr-xr-x.
+
   ![image](https://github.com/user-attachments/assets/34234d42-870a-4a89-8bdc-11644b43da7f)
 
   ![image](https://github.com/user-attachments/assets/84ac26ac-8b94-4f51-905e-9f9b955ca59b)
@@ -75,27 +77,57 @@ només permís de lectura.
 7. Modifica la màscara de proves2 perquè els fitxers els crei amb rw-rw-rw- i
 els directoris amb rwxrwxrwx.
 
+![image](https://github.com/user-attachments/assets/b66722db-4c97-45e1-99f0-6f5c0b0a589d)
+
+![image](https://github.com/user-attachments/assets/5d6a82d8-0e6f-4781-b107-dc61f29f829d)
+
+
 9. Comprova que la màscara anterior funciona.
     
 11. Modifica la màscara de proves2 perquè els fitxers els crei amb r--r--r-- i els
 directoris amb r-xr-xr-x.
+
 ![image](https://github.com/user-attachments/assets/9f5a5ec3-3e71-4685-a03d-aea57aaf4ec0)
+
+![image](https://github.com/user-attachments/assets/a63e0768-fc3f-4a17-8545-4a0b612e8ae1)
 
 13. Comprova que la màscara anterior funciona.
     
 15. Modifica la màscara de proves2 perquè els fitxers els crei amb rw--w--w- i
 els directoris amb rwx--x--x.
 
+![image](https://github.com/user-attachments/assets/c37da5ad-c140-4058-9ae2-50ab8bdc6ef5)
+
+![image](https://github.com/user-attachments/assets/26ac4980-eee1-4079-ab1f-86134a4ecfb4)
+
+
 17. Comprova que la màscara anterior funciona.
     
 10.Modifica la màscara per crear un fitxer anomenat "511.txt" amb permisos r-
 
+![image](https://github.com/user-attachments/assets/9bd40642-03d7-48ec-9ad3-f2c3bb092a86)
+
+
 11.Utilitza chmod perquè els permisos de "511.txt" siguin r-x--x--x.
+
+![image](https://github.com/user-attachments/assets/f5dfefdc-7174-429c-ae67-66be9df94e2b)
+
+
 12.Utilitza chmod perquè el fitxer anterior tingui permisos rwxrwxr-x.
+
+![image](https://github.com/user-attachments/assets/799b01b7-202f-417a-b7a7-43fab0112d32)
+
+
 13.Utilitza chown perquè el fitxer anterior sigui propietat de l'usuari root i del
 grup proves.
 
+
+
 14. Intenta eliminar el fitxer amb l'usuari proves2. (sense sudo)
+
+![image](https://github.com/user-attachments/assets/f4b645c8-c0b7-49f3-84f8-06df7820fa66)
+
 
 15. Afegeix l'usuari proves2 al grup proves i elimina el fitxer anterior.
 
+![image](https://github.com/user-attachments/assets/19e07070-9acb-49d3-93d1-1744f6ff8827)
