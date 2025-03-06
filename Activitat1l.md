@@ -62,9 +62,13 @@ només permís de lectura.
 # Activitat 2 – umask
 
 1. Crea un usuari anomenat "proves2" i mostra la seva màscara per defecte.
-   
-3. Modifica la màscara de proves2 perquè els fitxers els crei amb rw-r--r-- i els
-directoris amb rwxr-xr-x.
+   ![image](https://github.com/user-attachments/assets/25a3b7e0-4548-4938-ac68-815e7c566632)
+
+3. Modifica la màscara de proves2 perquè els fitxers els crei amb rw-r--r-- i   els
+  directoris amb rwxr-xr-x.
+  ![image](https://github.com/user-attachments/assets/34234d42-870a-4a89-8bdc-11644b43da7f)
+
+  ![image](https://github.com/user-attachments/assets/84ac26ac-8b94-4f51-905e-9f9b955ca59b)
 
 5. Comprova que la màscara anterior funciona.
    
@@ -75,6 +79,7 @@ els directoris amb rwxrwxrwx.
     
 11. Modifica la màscara de proves2 perquè els fitxers els crei amb r--r--r-- i els
 directoris amb r-xr-xr-x.
+![image](https://github.com/user-attachments/assets/9f5a5ec3-3e71-4685-a03d-aea57aaf4ec0)
 
 13. Comprova que la màscara anterior funciona.
     
@@ -84,7 +89,7 @@ els directoris amb rwx--x--x.
 17. Comprova que la màscara anterior funciona.
     
 10.Modifica la màscara per crear un fitxer anomenat "511.txt" amb permisos r-
--------
+
 11.Utilitza chmod perquè els permisos de "511.txt" siguin r-x--x--x.
 12.Utilitza chmod perquè el fitxer anterior tingui permisos rwxrwxr-x.
 13.Utilitza chown perquè el fitxer anterior sigui propietat de l'usuari root i del
