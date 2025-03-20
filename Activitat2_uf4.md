@@ -1,7 +1,10 @@
-![image](https://github.com/user-attachments/assets/d7fe5af5-af4d-4635-8e11-80a589777685)# Activitat 2
+
+# Activitat 2
 ### Crea un repositori github on responguis la següent pràctica:
 
 ### Per aquesta pràctica necessitaràs dues MV amb W10. Crea un nou escriptori a isard per aconseguir la segona i configura la IP per que puguen fer ping entre elles.
+
+![image](https://github.com/user-attachments/assets/d7fe5af5-af4d-4635-8e11-80a589777685)
 
 ![image](https://github.com/user-attachments/assets/349a38a7-fc40-4ba0-8fe3-cc9cbc4efce9)
 
